@@ -1,0 +1,96 @@
+2018-12-17 14:45:12,741 ERROR [root] - Insertion failed 
+2018-12-17 14:45:12,746 ERROR [root] - Inserting donor details failed 
+2018-12-17 14:52:39,096 ERROR [root] - Insertion failed 
+2018-12-17 14:52:39,112 ERROR [root] - Inserting donor details failed 
+2018-12-17 14:55:01,934 ERROR [root] - Insertion failed 
+2018-12-17 14:55:01,934 ERROR [root] - Inserting donor details failed 
+2018-12-17 14:59:48,250 ERROR [root] - Insertion failed 
+2018-12-17 14:59:48,266 ERROR [root] - Inserting donor details failed 
+2018-12-17 16:17:44,080 ERROR [root] - Insertion failed 
+2018-12-17 16:17:44,080 ERROR [root] - Inserting donor details failed 
+2018-12-17 16:23:33,493 ERROR [root] - Missing IN or OUT parameter at index:: 1
+2018-12-17 16:26:21,778 ERROR [root] - Insertion failed 
+2018-12-17 16:26:21,778 ERROR [root] - Inserting donor details failed 
+2018-12-17 16:31:27,593 ERROR [root] - Missing IN or OUT parameter at index:: 1
+2018-12-17 16:35:43,383 ERROR [root] - Insertion failed 
+2018-12-17 16:45:48,950 ERROR [root] - Insertion failed 
+2018-12-17 16:47:48,285 INFO [root] - cust details added successfully:
+2018-12-17 16:49:38,370 ERROR [root] - Missing IN or OUT parameter at index:: 1
+2018-12-17 16:55:59,255 ERROR [root] - Missing IN or OUT parameter at index:: 1
+2018-12-17 16:57:33,208 INFO [root] - comboo details added successfully:
+2018-12-17 17:19:38,523 INFO [root] - cust details added successfully:
+2018-12-17 17:32:08,309 INFO [root] - cust details added successfully:
+2018-12-17 17:32:36,727 INFO [root] - comboo details added successfully:
+2018-12-18 08:49:53,124 INFO [root] - cust details added successfully:
+2018-12-18 08:49:53,264 INFO [root] - cust details added successfully:
+2018-12-18 08:54:08,623 INFO [root] - cust details added successfully:
+2018-12-18 09:02:43,823 INFO [root] - comboo details added successfully:
+2018-12-18 09:02:43,932 INFO [root] - cust details added successfully:
+2018-12-18 09:02:44,072 INFO [root] - cust details added successfully:
+2018-12-18 09:02:44,166 INFO [root] - comboo details added successfully:
+2018-12-18 09:03:24,346 INFO [root] - cust details added successfully:
+2018-12-18 09:03:24,440 INFO [root] - comboo details added successfully:
+2018-12-18 09:03:24,549 INFO [root] - comboo details added successfully:
+2018-12-18 09:03:24,627 INFO [root] - cust details added successfully:
+2018-12-18 09:04:02,618 INFO [root] - cust details added successfully:
+2018-12-18 09:04:02,790 INFO [root] - comboo details added successfully:
+2018-12-18 09:04:02,900 INFO [root] - comboo details added successfully:
+2018-12-18 09:04:02,962 INFO [root] - cust details added successfully:
+2018-12-18 09:04:17,448 INFO [root] - cust details added successfully:
+2018-12-18 09:04:17,557 INFO [root] - comboo details added successfully:
+2018-12-18 09:04:17,635 INFO [root] - cust details added successfully:
+2018-12-18 09:04:17,714 INFO [root] - comboo details added successfully:
+2018-12-18 09:05:28,923 INFO [root] - cust details added successfully:
+2018-12-18 09:05:29,063 INFO [root] - comboo details added successfully:
+2018-12-18 09:05:29,141 INFO [root] - comboo details added successfully:
+2018-12-18 09:05:29,266 INFO [root] - cust details added successfully:
+2018-12-18 09:06:02,415 INFO [root] - cust details added successfully:
+2018-12-18 09:06:02,556 INFO [root] - comboo details added successfully:
+2018-12-18 09:06:02,649 INFO [root] - cust details added successfully:
+2018-12-18 09:06:02,727 INFO [root] - comboo details added successfully:
+2018-12-18 09:06:33,915 INFO [root] - cust details added successfully:
+2018-12-18 09:06:34,056 INFO [root] - comboo details added successfully:
+2018-12-18 09:06:34,149 INFO [root] - cust details added successfully:
+2018-12-18 09:06:34,259 INFO [root] - comboo details added successfully:
+2018-12-18 09:07:11,189 INFO [root] - comboo details added successfully:
+2018-12-18 09:07:11,298 INFO [root] - comboo details added successfully:
+2018-12-18 09:07:11,423 INFO [root] - cust details added successfully:
+2018-12-18 09:07:11,485 INFO [root] - cust details added successfully:
+2018-12-18 09:07:30,057 INFO [root] - comboo details added successfully:
+2018-12-18 09:07:30,150 INFO [root] - cust details added successfully:
+2018-12-18 09:07:30,291 INFO [root] - cust details added successfully:
+2018-12-18 09:07:30,369 INFO [root] - comboo details added successfully:
+2018-12-18 09:07:48,718 INFO [root] - comboo details added successfully:
+2018-12-18 09:07:48,827 INFO [root] - cust details added successfully:
+2018-12-18 09:07:48,905 INFO [root] - cust details added successfully:
+2018-12-18 09:07:48,999 INFO [root] - comboo details added successfully:
+2018-12-18 09:10:37,041 INFO [root] - comboo details added successfully:
+2018-12-18 09:10:37,135 INFO [root] - cust details added successfully:
+2018-12-18 09:10:37,214 INFO [root] - comboo details added successfully:
+2018-12-18 09:10:37,292 INFO [root] - cust details added successfully:
+2018-12-18 09:11:08,311 INFO [root] - comboo details added successfully:
+2018-12-18 09:11:08,436 INFO [root] - cust details added successfully:
+2018-12-18 09:11:08,514 INFO [root] - cust details added successfully:
+2018-12-18 09:11:08,592 INFO [root] - comboo details added successfully:
+2018-12-18 09:11:50,621 INFO [root] - comboo details added successfully:
+2018-12-18 09:11:50,730 INFO [root] - cust details added successfully:
+2018-12-18 09:11:50,840 INFO [root] - cust details added successfully:
+2018-12-18 09:11:50,949 INFO [root] - comboo details added successfully:
+2018-12-18 09:14:42,513 INFO [root] - cust details added successfully:
+2018-12-18 09:14:42,638 INFO [root] - cust details added successfully:
+2018-12-18 09:14:42,747 INFO [root] - comboo details added successfully:
+2018-12-18 09:14:42,841 INFO [root] - comboo details added successfully:
+2018-12-18 09:18:38,291 INFO [root] - comboo details added successfully:
+2018-12-18 09:18:38,478 INFO [root] - comboo details added successfully:
+2018-12-18 09:18:38,588 INFO [root] - cust details added successfully:
+2018-12-18 09:18:38,666 INFO [root] - cust details added successfully:
+2018-12-18 13:34:08,876 INFO [root] - cust details added successfully:
+2018-12-18 15:17:28,272 INFO [com.cg.cater.logger.Log4JPropertyFileDemo] - do something are:11.2
+2018-12-18 15:17:28,272 ERROR [com.cg.cater.logger.Log4JPropertyFileDemo] - value of x is null
+2018-12-18 15:47:24,371 INFO [root] - comboo details added successfully:
+2018-12-18 15:47:24,496 INFO [root] - comboo details added successfully:
+2018-12-18 15:47:24,574 INFO [root] - cust details added successfully:
+2018-12-18 15:47:24,652 INFO [root] - cust details added successfully:
+2018-12-18 15:47:46,585 INFO [root] - cust details added successfully:
+2018-12-18 15:47:46,679 INFO [root] - cust details added successfully:
+2018-12-18 15:47:46,819 INFO [root] - comboo details added successfully:
